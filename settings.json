@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hdvnt.aternos.me",
+    "ip": "hdvntk.aternos.me",
     "port": 13899,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
